@@ -1,9 +1,8 @@
-# entregaFinal_LeonelYancsura
-
 ![Logo](https://github.com/talentotech-ba/recursos/blob/0dea22ffba99ff1e32e0c6e4d51f738816e7afa5/tt-banner.jpg?raw=true)
 ## Implementación Parcial del Proyecto Final Integrador (PFI)
 
-Hasta este punto del curso, ya hemos cubierto los fundamentos de Python, desde la creación de algoritmos y el manejo de variables, hasta el uso de condicionales, bucles `while` y listas. Ahora, es el momento de poner en práctica estos conceptos para avanzar hacia tu Proyecto Final Integrador (PFI). La tarea de esta entrega consiste en construir una versión parcial del sistema de inventario, utilizando los conocimientos adquiridos. Es una gran oportunidad para que pruebes las ideas de tu proyecto y consolides tu aprendizaje.
+Proyecto Final Integrador:
+
 
 ### Objetivos:
 
