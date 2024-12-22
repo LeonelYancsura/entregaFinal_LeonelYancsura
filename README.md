@@ -59,3 +59,31 @@
   - El script en Python ('.py') con el código fuente de la aplicación.
   - La base de datos SQLite ('inventario.db'), si es que se ha generado con datos de prueba.
   - Un archivo 'README.txt' explicando cómo ejecutar la aplicación y las funcionalidades implementadas.
+
+# Sistema de Gestión de Inventario
+Este programa es una aplicación de consola para gestionar el inventario de productos de una tienda. Permite agregar, mostrar, actualizar y eliminar productos, así como realizar búsquedas de productos y generar reportes de bajo stock. El sistema utiliza una base de datos para almacenar los productos y sus detalles.
+
+## Requisitos:
+
+- Python 3.x
+- Librerías necesarias:
+  - `colorama` para mejorar la apariencia visual en la consola.
+  - `sqlite3` (incluida en la instalación estándar de Python) para la gestión de la base de datos.
+
+## Instalación:
+
+1. Clona o descarga este repositorio en tu máquina local.
+2. Si no tienes `colorama` instalado, puedes instalarlo utilizando `pip`:
+
+   ```bash
+   pip install colorama
+
+## Ejecución:
+- Abre una terminal o consola en el directorio del proyecto.
+- Ejecuta el archivo principal `main.py`:
+Esto iniciará la aplicación y mostrará el menú principal donde podrás seleccionar las acciones disponibles.
+
+### Notas :
+- El programa utiliza una base de datos SQLite para almacenar la información de los productos.
+- Se realizan validaciones en cada entrada para garantizar que los datos sean correctos.
+- La interfaz de consola es interactiva y utiliza colores para mejorar la experiencia visual.
