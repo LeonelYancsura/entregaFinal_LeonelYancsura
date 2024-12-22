@@ -2,10 +2,11 @@
 ## Implementación Parcial del Proyecto Final Integrador (PFI)
 
 ## Proyecto Final Integrador:
-  1- Deberán desarrollar una aplicación en Python que permita gestionar el inventario de una pequeña tienda. 
-  2- La aplicación debe ser capaz de registrar, actualizar, eliminar y mostrar productos en el inventario. 
-
 ### Objetivos:
+  -- Deberán desarrollar una aplicación en Python que permita gestionar el inventario de una pequeña tienda. 
+  -- La aplicación debe ser capaz de registrar, actualizar, eliminar y mostrar productos en el inventario. 
+  -- Además, debe incluir funcionalidades para realizar búsquedas y generar reportes de stock.
+
 
 - **Crear un menú interactivo utilizando bucles `while` y condicionales `if-elif-else`:**
   - El menú debe permitir al usuario seleccionar entre diferentes opciones relacionadas con la gestión de productos.
