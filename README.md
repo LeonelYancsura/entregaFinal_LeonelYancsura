@@ -1,8 +1,9 @@
 ![Logo](https://github.com/talentotech-ba/recursos/blob/0dea22ffba99ff1e32e0c6e4d51f738816e7afa5/tt-banner.jpg?raw=true)
 ## Implementación Parcial del Proyecto Final Integrador (PFI)
 
-Proyecto Final Integrador:
-
+## Proyecto Final Integrador:
+  1- Deberán desarrollar una aplicación en Python que permita gestionar el inventario de una pequeña tienda. 
+  2- La aplicación debe ser capaz de registrar, actualizar, eliminar y mostrar productos en el inventario. 
 
 ### Objetivos:
 
